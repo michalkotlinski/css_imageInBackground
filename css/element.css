@@ -4,6 +4,6 @@
     resize: both;
     overflow: auto;
     background-image: url("../images/landscape.jpg");
-    
+    background-repeat: no-repeat;
 
 }

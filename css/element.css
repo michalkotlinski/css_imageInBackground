@@ -5,10 +5,12 @@
     resize: both;
     overflow: auto;
     background-image: url("../images/landscape.jpg");
+    background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
     background-color: greenyellow;
-    background-position: center;
-    background-size: contain;
+    
+    
     
 
 

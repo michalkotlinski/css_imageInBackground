@@ -5,6 +5,10 @@
     resize: both;
     overflow: auto;
     background: center / contain no-repet url("../images/landscape.jpg") #ccc;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: greenyellow;
     background-attachment: fixed;
     
     

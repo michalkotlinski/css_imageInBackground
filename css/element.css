@@ -4,7 +4,7 @@
     height: 300px;
     resize: both;
     overflow: auto;
-    background: center / contain no-repet url("../images/landscape.jpg") #ccc;
+    background: center / contain no-repet url("images\landscape.jpg") #ccc;
     background-attachment: fixed;
     
     

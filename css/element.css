@@ -1,13 +1,15 @@
 .element {
-    width: 600px;
-    height: 600px;
+    color: white;
+    width: 300px;
+    height: 300px;
     resize: both;
     overflow: auto;
     background-image: url("../images/landscape.jpg");
     background-repeat: no-repeat;
     background-color: greenyellow;
     background-position: center;
-    color: white;
+    background-size: contain;
+    
 
 
 }
